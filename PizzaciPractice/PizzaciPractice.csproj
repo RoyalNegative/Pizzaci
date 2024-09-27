@@ -98,30 +98,45 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminNavigation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminNavigation.Designer.cs">
+      <DependentUpon>AdminNavigation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Class\Employee.cs" />
     <Compile Include="Class\EmployeeManager.cs" />
     <Compile Include="Class\Worker.cs" />
     <Compile Include="DAL\DBConnection.cs" />
     <Compile Include="DAL\EmployeeDBManager.cs" />
+    <Compile Include="EmployeeManagerPg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManagerPg.Designer.cs">
+      <DependentUpon>EmployeeManagerPg.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Presentation\YemekAdmin.cs">
+    <Compile Include="ProductManagerPg.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentation\YemekAdmin.Designer.cs">
-      <DependentUpon>YemekAdmin.cs</DependentUpon>
+    <Compile Include="ProductManagerPg.Designer.cs">
+      <DependentUpon>ProductManagerPg.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminNavigation.resx">
+      <DependentUpon>AdminNavigation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManagerPg.resx">
+      <DependentUpon>EmployeeManagerPg.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Presentation\YemekAdmin.resx">
-      <DependentUpon>YemekAdmin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -146,6 +161,8 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Presentation\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

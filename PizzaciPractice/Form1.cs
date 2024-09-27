@@ -8,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using PizzaciPractice.Presentation;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.Xml.Serialization;
 
@@ -45,10 +44,18 @@ namespace PizzaciPractice
                     if (birey.Username == this.username && birey.Password == this.password)
                     {
                         MessageBox.Show("Giris Basarili");
-                        YemekAdmin yemekAdmin = new YemekAdmin();
-                        this.Hide();
-                        yemekAdmin.Show();
-                        return;
+
+                        if (username == "admin" && password == "admin")
+                        {
+                            AdminNavigation adminNavigation = new AdminNavigation(birey, this);
+                            this.Hide();
+                            adminNavigation.Show();
+                            return;
+                        }
+                        else
+                        {
+                            //Normal Employee Girisi
+                        }
                     }
                 }
                 MessageBox.Show("Basarisiz kullanici adi veya parola.");

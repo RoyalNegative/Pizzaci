@@ -33,14 +33,6 @@ namespace PizzaciPractice.Class
             else { return false; }
         }
 
-        public bool DeleteBirey(int id)
-        {
-            if (EmployeeDBManager.DeleteEmployee(id))
-            {
-                return true; 
-            }
-            else { return false; }
-        }
 
         public List<Employee> GetBireys()
         {
@@ -54,28 +46,35 @@ namespace PizzaciPractice.Class
         }
 
 
-        /// ARAARARARARARARARARARARA
+       
 
         public bool UpdateBirey(int id, Employee birey)
         {
-            foreach (Employee Birey in bireys)
+            if (EmployeeDBManager.UpdateEmployee(birey))
             {
-                if (id == Birey.Id)
-                {
-                    Birey.Username = birey.Username;
-                    Birey.Password = birey.Password;
-                    Birey.Age = birey.Age;
-                    return true;
-                }
-
+                UpdateList();
+                return true;
+            }
+            else
+            {
+                return false; 
             }
 
-            return false;
+            
         }
 
         private void UpdateList()
         {
             this.bireys = EmployeeDBManager.GetEmployees();
+        }
+
+        public bool DeleteBirey(int id)
+        {
+            if (EmployeeDBManager.DeleteEmployee(id))
+            {
+                return true;
+            }
+            else { return false; }
         }
 
         #endregion

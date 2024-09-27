@@ -25,7 +25,7 @@ namespace PizzaciPractice.DAL
 
         #region CRUD Employees
 
-        public Boolean AddEmployee(Employee employee)
+        public bool AddEmployee(Employee employee)
         {
             using (var connection = new MySqlConnection(DatabaseConnectionString))
             {
@@ -59,7 +59,7 @@ namespace PizzaciPractice.DAL
             using (var connection = new MySqlConnection(DatabaseConnectionString))
             {
                 connection.Open();
-                using (var command = new MySqlCommand("SELECT * FROM employees", connection))
+                using (var command = new MySqlCommand("SELECT * FROM Employees", connection))
                 {
                     using (var reader = command.ExecuteReader())
                     {
@@ -71,6 +71,10 @@ namespace PizzaciPractice.DAL
                             employee.Surname = reader.GetString("surname");
                             employee.Username = reader.GetString("username");
                             employee.Password = reader.GetString("password");
+                            employee.Email = reader.GetString("email");
+                            employee.Age = reader.GetInt32("age");
+
+
                             employees.Add(employee);
                         }
                     }
@@ -109,7 +113,7 @@ namespace PizzaciPractice.DAL
             return employee;
         }
 
-        public Boolean UpdateEmployee(Employee employee)
+        public bool UpdateEmployee(Employee employee)
         {
             using (var connection = new MySqlConnection(DatabaseConnectionString))
             {
@@ -139,7 +143,7 @@ namespace PizzaciPractice.DAL
         }
 
 
-        public Boolean DeleteEmployee(int id)
+        public bool DeleteEmployee(int id)
         {
             using (var connection = new MySqlConnection(DatabaseConnectionString))
             {

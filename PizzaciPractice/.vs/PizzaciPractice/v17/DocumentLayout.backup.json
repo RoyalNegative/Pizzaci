@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\",
+  "WorkspaceRootPath": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|c:\\users\\kaan\\source\\repos\\pizzacipractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|c:\\users\\kaan\\pizzaci\\pizzacipractice\\employeemanagerpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:employeemanagerpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\employeemanagerpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:employeemanagerpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\adminnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:adminnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\dal\\employeedbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:dal\\employeedbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|c:\\users\\kaan\\source\\repos\\pizzacipractice\\presentation\\yemekadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:presentation\\yemekadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|c:\\users\\kaan\\source\\repos\\pizzacipractice\\class\\bireymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:class\\bireymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|c:\\users\\kaan\\source\\repos\\pizzacipractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|c:\\users\\kaan\\source\\repos\\pizzacipractice\\class\\birey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:class\\birey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|c:\\users\\kaan\\source\\repos\\pizzacipractice\\class\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:class\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\adminnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F79DFDB-1A58-4583-BA6F-CEE26DCC5998}|PizzaciPractice.csproj|solutionrelative:adminnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,84 +37,90 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 219,
+          "DockedWidth": 251,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "YemekAdmin.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Presentation\\YemekAdmin.cs",
-              "RelativeDocumentMoniker": "Presentation\\YemekAdmin.cs",
-              "ToolTip": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Presentation\\YemekAdmin.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Presentation\\YemekAdmin.cs [Tasar\u0131m]",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDBManager.cs",
+              "DocumentMoniker": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\DAL\\EmployeeDBManager.cs",
+              "RelativeDocumentMoniker": "DAL\\EmployeeDBManager.cs",
+              "ToolTip": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\DAL\\EmployeeDBManager.cs",
+              "RelativeToolTip": "DAL\\EmployeeDBManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wDcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:38:12.918Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-09-27T11:23:34.838Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCwAAABbAAAAAAAAAA==",
+              "Title": "EmployeeManagerPg.cs",
+              "DocumentMoniker": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\EmployeeManagerPg.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerPg.cs",
+              "ToolTip": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\EmployeeManagerPg.cs",
+              "RelativeToolTip": "EmployeeManagerPg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:25:45.07Z",
+              "WhenOpened": "2024-09-27T10:25:57.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BireyManager.cs",
-              "DocumentMoniker": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Class\\BireyManager.cs",
-              "RelativeDocumentMoniker": "Class\\BireyManager.cs",
-              "ToolTip": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Class\\BireyManager.cs",
-              "RelativeToolTip": "Class\\BireyManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Title": "AdminNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\AdminNavigation.cs",
+              "RelativeDocumentMoniker": "AdminNavigation.cs",
+              "ToolTip": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\AdminNavigation.cs",
+              "RelativeToolTip": "AdminNavigation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:22:30.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:08:56.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Calisan.cs",
-              "DocumentMoniker": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Class\\Calisan.cs",
-              "RelativeDocumentMoniker": "Class\\Calisan.cs",
-              "ToolTip": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Class\\Calisan.cs",
-              "RelativeToolTip": "Class\\Calisan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EmployeeManagerPg.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\EmployeeManagerPg.cs",
+              "RelativeDocumentMoniker": "EmployeeManagerPg.cs",
+              "ToolTip": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\EmployeeManagerPg.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmployeeManagerPg.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:19:21.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:06:14.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "DocumentIndex": 6,
+              "Title": "AdminNavigation.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\AdminNavigation.cs",
+              "RelativeDocumentMoniker": "AdminNavigation.cs",
+              "ToolTip": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\AdminNavigation.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AdminNavigation.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:07:13.617Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-09-27T10:03:46.912Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Birey.cs",
-              "DocumentMoniker": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Class\\Birey.cs",
-              "RelativeDocumentMoniker": "Class\\Birey.cs",
-              "ToolTip": "C:\\Users\\kaan\\source\\repos\\PizzaciPractice\\Class\\Birey.cs",
-              "RelativeToolTip": "Class\\Birey.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwEQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:09:52.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:03:24.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\kaan\\Pizzaci\\PizzaciPractice\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:02:43.724Z"
             }
           ]
         }

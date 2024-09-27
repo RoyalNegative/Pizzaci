@@ -11,15 +11,15 @@ namespace PizzaciPractice.Class
 
         private string Sube;
 
-        public Worker()
-        {
+        //public Worker()
+        //{
             
-        }
+        //}
 
-        public Worker( string sube, int calisannum, string username, string password, int yas) : base(calisannum, username, password, yas)
-        {
-            this.Sube = sube; 
-        }
+        //public Worker( string sube, int calisannum, string username, string password, string email, int yas) : base(calisannum, username, password, yas)
+        //{
+        //    this.Sube = sube; 
+        //}
 
 
 

@@ -39,14 +39,14 @@
             // 
             // tbUsername
             // 
-            this.tbUsername.Location = new System.Drawing.Point(130, 88);
+            this.tbUsername.Location = new System.Drawing.Point(130, 92);
             this.tbUsername.Name = "tbUsername";
             this.tbUsername.Size = new System.Drawing.Size(100, 20);
             this.tbUsername.TabIndex = 0;
             // 
             // tbPassword
             // 
-            this.tbPassword.Location = new System.Drawing.Point(130, 142);
+            this.tbPassword.Location = new System.Drawing.Point(130, 145);
             this.tbPassword.Name = "tbPassword";
             this.tbPassword.Size = new System.Drawing.Size(100, 20);
             this.tbPassword.TabIndex = 1;
@@ -64,7 +64,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(38, 88);
+            this.label2.Location = new System.Drawing.Point(38, 92);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(58, 13);
             this.label2.TabIndex = 3;
@@ -73,7 +73,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(38, 142);
+            this.label3.Location = new System.Drawing.Point(40, 145);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(56, 13);
             this.label3.TabIndex = 4;
@@ -81,7 +81,7 @@
             // 
             // btnLogin
             // 
-            this.btnLogin.Location = new System.Drawing.Point(95, 217);
+            this.btnLogin.Location = new System.Drawing.Point(89, 219);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(75, 23);
             this.btnLogin.TabIndex = 5;
@@ -94,7 +94,7 @@
             this.cbxParolayiSakla.AutoSize = true;
             this.cbxParolayiSakla.Checked = true;
             this.cbxParolayiSakla.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.cbxParolayiSakla.Location = new System.Drawing.Point(95, 168);
+            this.cbxParolayiSakla.Location = new System.Drawing.Point(130, 171);
             this.cbxParolayiSakla.Name = "cbxParolayiSakla";
             this.cbxParolayiSakla.Size = new System.Drawing.Size(93, 17);
             this.cbxParolayiSakla.TabIndex = 6;
