@@ -1,0 +1,11 @@
+C:\Users\kaan\source\repos\PizzaciPractice\bin\Debug\PizzaciPractice.exe.config
+C:\Users\kaan\source\repos\PizzaciPractice\bin\Debug\PizzaciPractice.exe
+C:\Users\kaan\source\repos\PizzaciPractice\bin\Debug\PizzaciPractice.pdb
+C:\Users\kaan\source\repos\PizzaciPractice\obj\Debug\PizzaciPractice.csproj.AssemblyReference.cache
+C:\Users\kaan\source\repos\PizzaciPractice\obj\Debug\PizzaciPractice.Form1.resources
+C:\Users\kaan\source\repos\PizzaciPractice\obj\Debug\PizzaciPractice.Presentation.YemekAdmin.resources
+C:\Users\kaan\source\repos\PizzaciPractice\obj\Debug\PizzaciPractice.Properties.Resources.resources
+C:\Users\kaan\source\repos\PizzaciPractice\obj\Debug\PizzaciPractice.csproj.GenerateResource.cache
+C:\Users\kaan\source\repos\PizzaciPractice\obj\Debug\PizzaciPractice.csproj.CoreCompileInputs.cache
+C:\Users\kaan\source\repos\PizzaciPractice\obj\Debug\PizzaciPractice.exe
+C:\Users\kaan\source\repos\PizzaciPractice\obj\Debug\PizzaciPractice.pdb
